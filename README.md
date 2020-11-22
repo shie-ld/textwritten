@@ -146,6 +146,8 @@ git clone https://github.com/shie-ld/textwritten.git
 
 cd textwritten/src
 
+pip install -r requirements.txt
+
 python3 textwritten.py -i hello.txt -o output.pdf
 
 ```
