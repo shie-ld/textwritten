@@ -1,0 +1,3 @@
+pip install path.py
+pip install numpy
+pip install Pillow
