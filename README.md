@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Screen Shot]](../main/src/image/ss.png)
+![Screen shot](../main/src/image/ss.png)
 
 Hey friends, did you get bombarded by a lot of school assignments during this era of 'online education'? And you want to escape and do away from those stubborn professors who regularly threatens you of assignment deadlines?
 
@@ -150,6 +150,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/shie-ld/textwritten](https://github.com/shie-ld/textwritten)
 
+
+Rudresh Dixit : [00rudreshdixit@gmail.com](00rudreshdixit.gmail.com)
 
 
 
