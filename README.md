@@ -149,7 +149,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Project Link: [https://github.com/shie-ld/textwritten](https://github.com/shie-ld/textwritten)
-
+Rudresh Dixit : [00rudreshdixit@gmail.com](00rudreshdixit.gmail.com)
 
 
 
