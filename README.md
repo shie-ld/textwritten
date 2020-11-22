@@ -75,6 +75,12 @@ Of course, this project is highly documented for your convinience so that you ca
 
 Grab a python3 distribution and run the source code with the help of jupyter notebook. Both of these get set up if you install anaconda distribution on your system.
 
+<p align="center">
+    **OR**
+</P>
+
+Just install any python3 distribution, install the dependencies and run `textwritten.py` in the `src` folder.
+
 
 ### Prerequisites
 
@@ -103,6 +109,13 @@ pip install -r requirements.txt
 
 Don't forget to put in the `INPUT_FILE` from which you want to generate pdf and resulting `OUTPUT_FILE` just above the `main()` function in the end of the notebook. . Check current directory and viola, you have generated the required pdf.
 
+<p align="center">
+    **OR**
+</P>
+
+3. Run the `textwritten.py` in the source folder with correct options and arguments.
+
+
 
 
 
@@ -117,6 +130,27 @@ OUTPUT_FILE = 'outfile.pdf'
 main()
 ```
 
+### Using CommandLine:
+
+```sh
+OPTIONS
+-i | --input : specify the input text file, required
+-o | --output : specify the output pdf file, default is out.pdf
+```
+
+
+So practical usage will look like:
+```sh
+# cloning the repo in your machine
+git clone https://github.com/shie-ld/textwritten.git
+
+cd textwritten/src
+
+python3 textwritten.py -i hello.txt -o output.pdf
+
+```
+
+And you are good to go:smile:
 
 <!-- ROADMAP -->
 ## Roadmap
