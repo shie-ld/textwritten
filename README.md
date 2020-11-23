@@ -57,7 +57,7 @@ Or you want to save some of your precious time doing something productive rather
 * So this project *aims at taking input as a text file and generating a brand new handwritten pdf file from it*.
 
 
-Of course, this project is highly documented for your convinience so that you can tweak it as you wish. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+Of course, this project is highly documented for your convenience so that you can tweak it as you wish. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
 
 
